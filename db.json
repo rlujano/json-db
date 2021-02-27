@@ -5,21 +5,21 @@
             "title" : "React desde Cero",
             "image" : "https://edteam-media.s3.amazonaws.com/courses/big/f7dad9a6-e060-4305-9adf-b9a9079075de.jpg",
             "price" : "40usd",
-            "profesor"  : "Bart simpson"
+            "professor"  : "Bart simpson"
         },
         {
             "id"    : 2,
             "title" : "Drupal Frontend",
             "image" : "https://edteam-media.s3.amazonaws.com/courses/big/43973b1c-a8e2-4863-9252-2ae41377cab2.png",
             "price" : "50usd",
-            "profesor"  : "Liza Simpson"
+            "professor"  : "Liza Simpson"
         },
         {
             "id"    : 3,
             "title" : "Animaciones con CSS",
             "image" : "https://edteam-media.s3.amazonaws.com/courses/big/35a55094-93d2-4091-b8b8-06949a5c63be.png",
             "price" : "20usd",
-            "profesor"  : "Homero simpson"
+            "professor"  : "Homero simpson"
         }
       
     ]
